@@ -18,17 +18,17 @@ Before you begin, ensure you have met the following requirements:
 To install Film Finder, follow these steps:
 
 1. Clone the repository from GitHub:
-   ```bash git clone https://github.com/Melissamichaud1/film-finder.git
+- git clone https://github.com/Melissamichaud1/film-finder.git
 
-Navigate to the project directory:
+2. Navigate to the project directory:
 - cd film-finder
   
-Install the dependencies:
+3. Install the dependencies:
 - npm install
   
-To start the application, run the following command:
-
+4. To start the application, run the following command:
 - npm start
+  
 This will start the application and open it in your default web browser.
 
 ## Technologies Used
